@@ -1,5 +1,5 @@
 .project-menu {
-    width: 45rem;
+    width: 40rem;
     position: fixed;
     display: flex;
     top: 25%;
@@ -12,7 +12,7 @@
     display: flex;
     position: relative;
     width: 40%;
-    margin-top: 12rem;
+    margin-top: 0.8rem;
     align-items: flex-end;
   }
   
@@ -44,7 +44,30 @@
   .project-item.activeProject:nth-child(3) {
     background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
   }
-  
+  .project-item.activeProject:nth-child(4) {
+    background: linear-gradient(270deg, #ffffff00, var(--purple) 70%);
+  }
+  .project-item.activeProject:nth-child(5) {
+    background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
+  }
+  .project-item.activeProject:nth-child(6) {
+    background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
+  }
+  .project-item.activeProject:nth-child(7) {
+    background: linear-gradient(270deg, #ffffff00, var(--purple) 70%);
+  }
+  .project-item.activeProject:nth-child(8) {
+    background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
+  }
+  .project-item.activeProject:nth-child(9) {
+    background: linear-gradient(270deg, #ffffff00, var(--cyan) 70%);
+  }
+  .project-item.activeProject:nth-child(10) {
+    background: linear-gradient(270deg, #ffffff00, var(--purple) 70%);
+  }
+  .project-item.activeProject:nth-child(11) {
+    background: linear-gradient(270deg, #ffffff00, var(--blue) 70%);
+  }
   .project-sub-container {
     width: 60%;
     margin-top: 2rem;

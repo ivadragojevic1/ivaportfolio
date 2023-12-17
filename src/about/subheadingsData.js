@@ -15,27 +15,11 @@ const subheadingsData = {
     ],
     2: [
         {
-            title: "2016 Masters Degree",
+            title: "2025 IT High School Graduation",
             content: (
                 <>
                     <p>
-                     Lorem ipsum dolor sit amet,
-                     consectetur adipiscing elit, sed do 
-                     eiusmod tempor incididunt ut labore
-                     et dolore magna aliqua.
-                    </p>
-                </>
-            ),
-        },
-        {
-            title: "2014 Bachelors Degree",
-            content: (
-                <>
-                    <p>
-                     Lorem ipsum dolor sit amet,
-                     consectetur adipiscing elit, sed do 
-                     eiusmod tempor incididunt ut labore
-                     et dolore magna aliqua.
+                    Embarking on the journey of high school marked a significant chapter in my life, filled with growth, discovery, and academic achievement. As I reflect on my high school experience, I am proud to showcase the skills, accomplishments, and personal development that have shaped me into the individual I am today.
                     </p>
                 </>
             ),
@@ -43,9 +27,20 @@ const subheadingsData = {
     ],
     3: [
         {
-            title: "2022 Front End Developer",
+            title: "2023 Front End Developer",
             content: (
                 <>
+                <p>
+                I am proficient in a variety of front-end technologies, including HTML5, CSS3, and JavaScript. My proficiency extends to popular frameworks such as React.js, Angular, and Vue.js, allowing me to create dynamic and responsive web applications that meet modern design standards.
+                </p>
+                </>
+            ),
+        },
+        {
+            title: "2022 UX Designer",
+            content: (
+                <>
+                <br></br>
                     <p>
                      Lorem ipsum dolor sit amet,
                      consectetur adipiscing elit, sed do 
@@ -56,20 +51,7 @@ const subheadingsData = {
             ),
         },
         {
-            title: "2020 UX Designer",
-            content: (
-                <>
-                    <p>
-                     Lorem ipsum dolor sit amet,
-                     consectetur adipiscing elit, sed do 
-                     eiusmod tempor incididunt ut labore
-                     et dolore magna aliqua.
-                    </p>
-                </>
-            ),
-        },
-        {
-            title: "2017 IT Consultant",
+            title: "2021 IT Consultant",
             content: (
                 <>
                     <p>
